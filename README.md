@@ -23,7 +23,7 @@
 <!-- ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
  -->
-[![My Skills](https://skills.thijs.gg/icons?i=django,nodejs,react,next,express,css,wordpress,bootstrap,&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=django,flutter,react,next,express,css,wordpress,bootstrap,&theme=dark)](https://skills.thijs.gg)
 
 ### Technologies & Tools 💡 
 
