@@ -1,4 +1,4 @@
-# Hi There , I'm Godfrey ✨  
+# Hi There , I'm Godfrey And l'm a Developer✨  
 
 [![Linkedin: Godfrey-kandeya](https://www.linkedin.com/in/godfrey-kandeya?style=for-the-badge&logo=Linkedin&Color=black&link=https://www.linkedin.com/in/godfrey-kandeya)](https://www.linkedin.com/in/godfrey-kandeya-2a3b47242/)
 
