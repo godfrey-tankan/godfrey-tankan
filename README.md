@@ -27,7 +27,7 @@
 
 ### Technologies & Tools 💡 
 
-[![My Skills](https://skills.thijs.gg/icons?i=postgres,mysql,git,thunder,vscode&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=postgres,mysql,git,vscode&theme=light)](https://skills.thijs.gg)
 
 
 ## Statistics
