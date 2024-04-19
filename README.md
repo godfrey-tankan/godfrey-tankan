@@ -1,6 +1,6 @@
 # Hi There , I'm Godfrey And l'm a Backend Software Engineer✨  
 
-[![Linkedin: Godfrey-kandeya](https://www.linkedin.com/in/godfrey-kandeya?style=for-the-badge&logo=Linkedin&Color=black&link=https://www.linkedin.com/in/godfrey-kandeya)]([[[]](https://www.linkedin.com/in/gkandeya/)(https://www.linkedin.com/in/gkandeya/)](https://www.linkedin.com/in/gkandeya/))
+[![Linkedin: Godfrey-kandeya](https://www.linkedin.com/gkandeya?style=for-the-badge&logo=Linkedin&Color=black&link=https://www.linkedin.com/gkandeya)]((https://www.linkedin.com/in/gkandeya/)])
 
 - 👷 I’m currently refining my CI/CD Skills
 - 👨‍👩‍👧‍👦 I’m looking to collaborate on any project (backend).
