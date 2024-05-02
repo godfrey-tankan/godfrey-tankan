@@ -1,4 +1,4 @@
-# Hi There , I'm Godfrey And l'm a Backend Software Engineer✨  
+# Hi There , I'm Godfrey And l'm a Backend Software Developer✨  
 
 Linkedin: <https://www.linkedin.com/gkandeya/>
 
