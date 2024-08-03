@@ -7,26 +7,7 @@ Linkedin: <https://www.linkedin.com/gkandeya/>
 - 📩 Reach out to me: <gtkandeya@gmail.com>
 
 
-### Languages Used ✨
-
-
-<!-- ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)-->
-[![My Skills](https://skills.thijs.gg/icons?i=python,javascript,bash)](https://skills.thijs.gg)
-
-### Frameworks and Libraries 📚
-
-<!-- ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
- -->
-[![My Skills](https://skills.thijs.gg/icons?i=django,flutter,react,next,express,css,wordpress,bootstrap,&theme=dark)](https://skills.thijs.gg)
-
-### Technologies & Tools 💡 
-
-[![My Skills](https://skills.thijs.gg/icons?i=postgres,mysql,git,vscode&theme=light)](https://skills.thijs.gg)
-
+[![committers.top badge](https://user-badge.committers.top/zimbabwe/godfrey-tankan.svg)](https://user-badge.committers.top/zimbabwe/godfrey-tankan)
 
 ## Statistics
 
