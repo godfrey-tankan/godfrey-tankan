@@ -94,7 +94,7 @@
    <a href="mailto:gtkandeya@gmail.com" target="_blank">
    <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&center=true&vCenter=true&width=450%&lines=gtkandeya@gmail.com" />
          <a href="https://github.com/godfrey-tankan">
-         <img align="left" width=50% alt="Github" src="https://raw.githubusercontent.com/godfrey-tankan/godfrey-tankan/connect.gif">
+         <img align="left" width=50% alt="Github" src="https://raw.githubusercontent.com/godfrey-tankan/godfrey-tankan/.gif">
       </a>
    <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%232CF7E4&center=true&vCenter=true&width=450%&lines=(%2B263)779586059" />
    </a>
