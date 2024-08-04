@@ -1,9 +1,6 @@
-<a href="https://github.com/godfrey-tankan">
-   Hi There, I'm Godfrey And I'm a Backend Python Developer
-   <img height=50 width=100% src="https://github.com/godfrey-tankan/godfrey-tankan/blob/main/star.gif">
-   </a>
+#Hi There, I'm Godfrey And I'm a Backend Python Developer
 
-<!--Made By Sabyasachi-->
+<!--Made By tankan-->
 <div align="center" >
    <a href="https://github.com/godfrey-tankan">
    <img width=100% src="https://github.com/godfrey-tankan/godfrey-tankan/blob/main/action2.gif" href="https://github.com/godfrey-tankan" /></a>
@@ -92,7 +89,8 @@
 <img width=45% height=95% src="https://img.shields.io/badge/-LeetCode Profile-yellow?style=for-the-badge&logo=leetcode&logoColor=white&link=https://leetcode.com/tankan/"/>
 </a>
 
-<h3 align="center"><a href="https://github.com/godfrey-tankan"><img width=15% alt="Phone" src="https://github.com/godfrey-tankan/godfrey-tankan/blob/main/phone.gif">&nbsp;<img width=80% alt="Wanna Talk?" src="https://github.com/godfrey-tankan/godfrey-tankan/blob/main/phone.gif"/></a></h3>
+<h3 align="center"><a href="https://github.com/godfrey-tankan"></a></h3>
+<img align="right" width=40% alt="Github" src="https://github.com/godfrey-tankan/godfrey-tankan/blob/main/phone.gif">
 <div align=center>
    <a href="mailto:gtkandeya@gmail.com" target="_blank">
    <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&center=true&vCenter=true&width=450%&lines=gtkandeya@gmail.com" />
