@@ -31,11 +31,11 @@
 </div>
 <div align="right">
    <a href="https://github.com/godfrey-tankan">
-      <h2 align="center"><img alt="Script" width=10% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/script.gif"/>&nbsp;&nbsp;<img width=85% alt="Languages and Tools" src="https://raw.githubusercontent.com/godfrey-tankan/godfrey-tankan/ouput/languagesandtools.svg"/></a>
+      <h2 align="center"><img alt="Script" width=10% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/script.gif"/>&nbsp;&nbsp;<img width=85% alt="Languages and Tools" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/languagesandtools.svg"/></a>
       </h2>
       <a href="https://github.com/godfrey-tankan">
-         <img align="left" width=50% alt="Github" src="https://raw.githubusercontent.com/godfrey-tankan/godfrey-tankan/ouput/coder.gif">
-         <!-- https://raw.githubusercontent.com/godfrey-tankan/godfrey-tankan/ouput/coder.gif -->
+         <img align="left" width=50% alt="Github" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/coder.gif">
+         <!-- https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/coder.gif -->
       </a>
    </a>
    <p>
