@@ -91,10 +91,10 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="12.5%" height="12.5%" />
       </a>
       <a target="_blank" rel="noreferrer">
-      <img src="https://camo.githubusercontent.com/4f03d47343b28f447bef667297cd2702a7405236ebb8ee8545aecb6c4b2352c4/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f646a616e676f2e706e67" />
+      <img src="https://camo.githubusercontent.com/4f03d47343b28f447bef667297cd2702a7405236ebb8ee8545aecb6c4b2352c4/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f646a616e676f2e706e67" alt="python" width="12.5%" height="12.5%" />
       </a>
       <a target="_blank" rel="noreferrer">
-      <img src="https://camo.githubusercontent.com/5a4722ca71301ec290d980b997e0a683464c8eb5be731ddac49fc717ea801225/68747470733a2f2f696d672e69636f6e73382e636f6d2f696f732d66696c6c65642f34382f3030303030302f666c61736b2e706e67" />
+      <img src="https://camo.githubusercontent.com/5a4722ca71301ec290d980b997e0a683464c8eb5be731ddac49fc717ea801225/68747470733a2f2f696d672e69636f6e73382e636f6d2f696f732d66696c6c65642f34382f3030303030302f666c61736b2e706e67" alt="python" width="12.5%" height="12.5%" />
       </a>
    </p>
 </div>
