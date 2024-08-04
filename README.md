@@ -64,12 +64,12 @@
 </div>
 <div align=center>
    <a href="https://github.com/godfrey-tankan">
-   <img height=50 width=100% src="https://raw.githubusercontent.com/godfrey-tankan/godfrey-tankan/ouput/divider.gif">
+   <img height=50 width=100% src="https://raw.githubusercontent.com/godfrey-tankan/godfrey-tankan/divider.gif">
    </a>
 </div>
 <div align="left">
 <a href="https://github.com/godfrey-tankan">
-<img align="right" width=40% alt="Github" src="https://raw.githubusercontent.com/godfrey-tankan/godfrey-tankan/ouput/github.gif">
+<img align="right" width=40% alt="Github" src="https://raw.githubusercontent.com/godfrey-tankan/godfrey-tankan/github.gif">
 </a>
 <br>
 <a href="https://clava.co.zw">
@@ -89,12 +89,12 @@
 <img width=45% height=95% src="https://img.shields.io/badge/-LeetCode Profile-yellow?style=for-the-badge&logo=leetcode&logoColor=white&link=https://leetcode.com/tankan/"/>
 </a>
 
-<h3 align="center"><a href="https://github.com/godfrey-tankan"><img width=15% alt="Phone" src="https://raw.githubusercontent.com/godfrey-tankan/godfrey-tankan/ouput/phone.gif">&nbsp;<img width=80% alt="Wanna Talk?" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/wannatalk.svg"/></a></h3>
+<h3 align="center"><a href="https://github.com/godfrey-tankan"><img width=15% alt="Phone" src="https://raw.githubusercontent.com/godfrey-tankan/godfrey-tankan/phone.gif">&nbsp;<img width=80% alt="Wanna Talk?" src="https://raw.githubusercontent.com/godfrey-tankan/godfrey-tankan/wannatalk.svg"/></a></h3>
 <div align=center>
    <a href="mailto:gtkandeya@gmail.com" target="_blank">
    <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&center=true&vCenter=true&width=450%&lines=gtkandeya@gmail.com" />
          <a href="https://github.com/godfrey-tankan">
-         <img align="left" width=50% alt="Github" src="https://raw.githubusercontent.com/godfrey-tankan/godfrey-tankan/.gif">
+         <img align="left" width=50% alt="Github" src="https://raw.githubusercontent.com/godfrey-tankan/godfrey-tankan/code.gif">
       </a>
    <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%232CF7E4&center=true&vCenter=true&width=450%&lines=(%2B263)779586059" />
    </a>
