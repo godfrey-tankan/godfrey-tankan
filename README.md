@@ -44,11 +44,29 @@
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="12.5%" height="12.5%" />
       </a>
+       <a>
+      <img src="https://camo.githubusercontent.com/4f03d47343b28f447bef667297cd2702a7405236ebb8ee8545aecb6c4b2352c4/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f646a616e676f2e706e67"/>
+      </a>
+      <a>
+      <img src="https://camo.githubusercontent.com/09f0d4d964dd8b2d4381c72cf8ffef40af4a91ea5fdf14165a123124f8bd7bbf/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f35302f3030303030302f6a6176617363726970742e706e67"/>
+      </a><a>
+      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
+      </a><a>
+      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
+      </a>
+      <a>
+      <img src="https://camo.githubusercontent.com/0fdca9b191118f32724414ce362dd7cd220be4c42738f4ba46ea631f856cdea6/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f72656163746a732f72656163746a732d69636f6e2e737667" />
+      </a>
      </p>
    <h2></h2>
    <p>
       <a href="https://www.python.org" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="12.5%" height="12.5%" />
+      </a>
+      <a>
+      <img src="https://camo.githubusercontent.com/4f03d47343b28f447bef667297cd2702a7405236ebb8ee8545aecb6c4b2352c4/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f646a616e676f2e706e67" />
+      </a>
+      <img src="https://camo.githubusercontent.com/5a4722ca71301ec290d980b997e0a683464c8eb5be731ddac49fc717ea801225/68747470733a2f2f696d672e69636f6e73382e636f6d2f696f732d66696c6c65642f34382f3030303030302f666c61736b2e706e67" />
       </a>
    </p>
 </div>
@@ -93,13 +111,13 @@
 
 <a href="https://github.com/godfrey-tankan"><img height="130px" src="https://github-readme-stats.vercel.app/api?username=godfrey-tankan&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=tokyonight" /><!-- wi*quL3fcV --></a>
 
-
 <div align="center" >
    <a href="https://github.com/godfrey-tankan">
    <img width=100% src="https://github.com/godfrey-tankan/godfrey-tankan/blob/main/gitartwork.svg" href="https://github.com/godfrey-tankan" /></a>
 </div>
 
 <!-- [![wakatime](https://wakatime.com/badge/user/b3046e07-b277-4034-9c3c-8e48a13c62f6.svg)](https://wakatime.com/@b3046e07-b277-4034-9c3c-8e48a13c62f6) -->
+
 ![views](https://komarev.com/ghpvc/?username=godfrey-tankan)
 [![committers.top badge](https://user-badge.committers.top/zimbabwe/godfrey-tankan.svg)](https://user-badge.committers.top/zimbabwe/godfrey-tankan)
 -⏰
