@@ -12,7 +12,7 @@
 </div>
 <h1 align="center"><a href="https://github.com/godfrey-tankan"><img width=7% height=15% src="https://raw.githubusercontent.com/godfrey-tankan/godfrey-tankan/ouput/Hi.gif"/></a> I'm a
    <a href="https://github.com/godfrey-tankan">
-   <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Cloud+Computing+Enthusiast;Backend+Developer+Cloud+Practitioner;DevOps+Engineer" />
+   <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Cloud+Computing+Enthusiast;Backend+Developer;DevOps+Engineer" />
    </a>
 </h1>
 <div align=center>
@@ -21,16 +21,8 @@
    <h4>
       🌱 I’m mostly interested in:
       <a href="https://github.com/godfrey-tankan">
-      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%23F78240&center=true&vCenter=true&width=250%&height=50%&lines=Backend+Development;Cloud+Computing;DevOps" /></a>
+      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%23F78240&center=true&vCenter=true&width=250%&height=50%&lines=Backend+Development;DevOps" /></a>
       <br>
-      👯 I’m looking to collaborate on:
-      <a href="https://github.com/godfrey-tankan">
-      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%23F7BB45&center=true&vCenter=true&width=250%&height=50%&lines=Web+Apps;Cloud+Deployment;Social+Media+Bots" /></a>
-      <br>
-      💬 Talk to me all about:
-      <a href="https://github.com/godfrey-tankan">
-      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%234AF736&center=true&vCenter=true&width=250%&height=50%&lines=My+Projects;Upcoming+Events;New+Technology;New+Ideas;Anything+Technical" /></a>
-   </h4>
 </div>
 <div align=center>
    <a href="https://github.com/godfrey-tankan">
@@ -39,7 +31,7 @@
 </div>
 <div align="right">
    <a href="https://github.com/godfrey-tankan">
-      <h2 align="center"><img alt="Script" width=10% src="https://raw.githubusercontent.com/godfrey-tankan/godfrey-tankan/ouput/script.gif"/>&nbsp;&nbsp;<img width=85% alt="Languages and Tools" src="https://raw.githubusercontent.com/godfrey-tankan/godfrey-tankan/ouput/languagesandtools.svg"/></a>
+      <h2 align="center"><img alt="Script" width=10% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/script.gif"/>&nbsp;&nbsp;<img width=85% alt="Languages and Tools" src="https://raw.githubusercontent.com/godfrey-tankan/godfrey-tankan/ouput/languagesandtools.svg"/></a>
       </h2>
       <a href="https://github.com/godfrey-tankan">
          <img align="left" width=50% alt="Github" src="https://raw.githubusercontent.com/godfrey-tankan/godfrey-tankan/ouput/coder.gif">
@@ -98,7 +90,7 @@
 <img width=45% height=95% src="https://img.shields.io/badge/-LeetCode Profile-yellow?style=for-the-badge&logo=leetcode&logoColor=white&link=https://leetcode.com/tankan/"/>
 </a>
 
-<h3 align="center"><a href="https://github.com/godfrey-tankan"><img width=15% alt="Phone" src="https://raw.githubusercontent.com/godfrey-tankan/godfrey-tankan/ouput/phone.gif">&nbsp;<img width=80% alt="Wanna Talk?" src="https://raw.githubusercontent.com/godfrey-tankan/godfrey-tankan/ouput/wannatalk.svg"/></a></h3>
+<h3 align="center"><a href="https://github.com/godfrey-tankan"><img width=15% alt="Phone" src="https://raw.githubusercontent.com/godfrey-tankan/godfrey-tankan/ouput/phone.gif">&nbsp;<img width=80% alt="Wanna Talk?" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/wannatalk.svg"/></a></h3>
 <div align=center>
    <!-- <a href="https://www.linkedin.com/in/godfrey-tankan-4461711bb/">
       <img align="right" alt="Footer" width=45% src="https://linkedin-github.herokuapp.com/api/render/Sabyasachi%20Seal/Tech%20Enthusiast/Student/Bachelor%20of%20Technology/dark-red/https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F36451386%3Fv%3D4" />
