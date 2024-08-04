@@ -1,14 +1,7 @@
-#Hi There, I'm Godfrey And I'm a Backend Python Developer
-
 <!--Made By tankan-->
 <div align="center" >
    <a href="https://github.com/godfrey-tankan">
-   <img width=100% src="https://github.com/godfrey-tankan/godfrey-tankan/blob/main/action2.gif" href="https://github.com/godfrey-tankan" /></a>
-</div>
-<div align=center>
-   <a href="https://github.com/godfrey-tankan">
-   <img height=50 width=100% src="https://github.com/godfrey-tankan/godfrey-tankan/blob/main/divider.gif">
-   </a>
+   <img width=100% src="https://github.com/godfrey-tankan/godfrey-tankan/blob/main/gitartwork.svg" href="https://github.com/godfrey-tankan" /></a>
 </div>
 <h1 align="center"><a href="https://github.com/godfrey-tankan"><img width=7% height=15% src="https://github.com/godfrey-tankan/godfrey-tankan/blob/main/Hi.gif"/></a> I'm a
    <a href="https://github.com/godfrey-tankan">
