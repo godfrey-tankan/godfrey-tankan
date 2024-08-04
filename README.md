@@ -45,7 +45,7 @@
       <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="12.5%" height="12.5%" />
       </a>
       <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-      <img src="https://github.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="12.5%" height="12.5%" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="12.5%" height="12.5%" />
       </a>
       </a>
    </p>
@@ -58,7 +58,7 @@
    <h2></h2>
    <p>
       <a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img src="https://github.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="12.5%" height="12.5%" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="12.5%" height="12.5%" />
       </a>
    </p>
 </div>
@@ -89,13 +89,11 @@
 <img width=45% height=95% src="https://img.shields.io/badge/-LeetCode Profile-yellow?style=for-the-badge&logo=leetcode&logoColor=white&link=https://leetcode.com/tankan/"/>
 </a>
 
-<h3 align="center"><a href="https://github.com/godfrey-tankan"><img width=15% alt="Phone" src="https://github.com/godfrey-tankan/godfrey-tankan/blob/main/phone.gif">&nbsp;<img width=80% alt="Wanna Talk?" src="https://github.com/godfrey-tankan/godfrey-tankan/blob/main/wannatalk.svg"/></a></h3>
+<h3 align="center"><a href="https://github.com/godfrey-tankan"><img width=15% alt="Phone" src="https://github.com/godfrey-tankan/godfrey-tankan/blob/main/phone.gif">&nbsp;<img width=80% alt="Wanna Talk?" src="https://github.com/godfrey-tankan/godfrey-tankan/blob/main/phone.svg"/></a></h3>
 <div align=center>
    <a href="mailto:gtkandeya@gmail.com" target="_blank">
    <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&center=true&vCenter=true&width=450%&lines=gtkandeya@gmail.com" />
-         <a href="https://github.com/godfrey-tankan">
-         <img align="left" width=50% alt="Github" src="https://github.com/godfrey-tankan/godfrey-tankan/blob/main/code.gif">
-      </a>
+   
    <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%232CF7E4&center=true&vCenter=true&width=450%&lines=(%2B263)779586059" />
    </a>
 </div>
