@@ -57,7 +57,14 @@
       <a>
       <img src="https://camo.githubusercontent.com/0fdca9b191118f32724414ce362dd7cd220be4c42738f4ba46ea631f856cdea6/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f72656163746a732f72656163746a732d69636f6e2e737667" />
       </a>
+       <a>
+      <img src="https://camo.githubusercontent.com/417fe822f1404f7f13f63cc4a6bd3c86464b499b80e37eabcb6b65d994fe545a/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f7461696c77696e646373732e706e67" />
+      </a>
+        <a>
+      <img src="https://camo.githubusercontent.com/5ae1ae8207f9bc2fe3428032228630a152b57ef1bc6e296181e386b47843a4af/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f626f6f7473747261702e706e67" />
+      </a>
      </p>
+
    <h2></h2>
    <p>
       <a href="https://www.python.org" target="_blank" rel="noreferrer">
