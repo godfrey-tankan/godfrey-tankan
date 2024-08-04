@@ -1,6 +1,6 @@
 <!--Made By tankan-->
 
-<h1 align="center"><a href="https://github.com/godfrey-tankan"><img width=7% height=15% src="https://github.com/godfrey-tankan/godfrey-tankan/blob/main/Hi.gif"/></a> I'm a
+<h1 align="center">I'm Godfrey Kandeya and I'm a:
    <a href="https://github.com/godfrey-tankan">
    <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Cloud+Computing+Enthusiast;Backend+Developer;DevOps+Engineer" />
    </a>
@@ -91,7 +91,7 @@
 
 ## Statistics
 
-<a href="https://github.com/godfrey-tankan"><img height="130px" src="https://github-readme-stats.vercel.app/api?username=godfrey-tankan&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=tokyonight" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=godfrey-tankan&hide_title=true&hide_border=true&layout=compact&langs_count=10theme=tokyonight&&hide=css,html,shaderlab&theme=tokyonight" /></a>
+<a href="https://github.com/godfrey-tankan"><img height="130px" src="https://github-readme-stats.vercel.app/api?username=godfrey-tankan&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=tokyonight" /><!-- wi*quL3fcV --></a>
 
 
 <div align="center" >
