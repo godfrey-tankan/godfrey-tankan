@@ -121,8 +121,8 @@
 </a>
 <br>
 <br>
-<a href="https://leetcode.com/tankan/">
-<img width=45% height=95% src="https://img.shields.io/badge/-LeetCode Profile-yellow?style=for-the-badge&logo=leetcode&logoColor=white&link=https://leetcode.com/tankan/"/>
+<a href="https://leetcode.com/">
+<img width=45% height=95% src="https://img.shields.io/badge/-LeetCode Profile-yellow?style=for-the-badge&logo=leetcode&logoColor=white&link=https://leetcode.com/"/>
 </a>
 
 <h3 align="center"><a href="https://github.com/godfrey-tankan"></a></h3>
