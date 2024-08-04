@@ -44,42 +44,44 @@
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="12.5%" height="12.5%" />
       </a>
-       <a>
-      <img src="https://camo.githubusercontent.com/4f03d47343b28f447bef667297cd2702a7405236ebb8ee8545aecb6c4b2352c4/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f646a616e676f2e706e67"/>
+       <a target="_blank" rel="noreferrer">
+      <img src="https://camo.githubusercontent.com/4f03d47343b28f447bef667297cd2702a7405236ebb8ee8545aecb6c4b2352c4/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f646a616e676f2e706e67"alt="python" width="12.5%" height="12.5%"/>
       </a>
-      <a>
-      <img src="https://camo.githubusercontent.com/09f0d4d964dd8b2d4381c72cf8ffef40af4a91ea5fdf14165a123124f8bd7bbf/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f35302f3030303030302f6a6176617363726970742e706e67"/>
-      </a><a>
-      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
-      </a><a>
-      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
+      <a target="_blank" rel="noreferrer">
+      <img src="https://camo.githubusercontent.com/09f0d4d964dd8b2d4381c72cf8ffef40af4a91ea5fdf14165a123124f8bd7bbf/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f35302f3030303030302f6a6176617363726970742e706e67"alt="python" width="12.5%" height="12.5%"/>
       </a>
-      <a>
-      <img src="https://camo.githubusercontent.com/0fdca9b191118f32724414ce362dd7cd220be4c42738f4ba46ea631f856cdea6/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f72656163746a732f72656163746a732d69636f6e2e737667" />
+      <a target="_blank" rel="noreferrer">>
+      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"alt="python" width="12.5%" height="12.5%"/>
       </a>
-       <a>
-      <img src="https://camo.githubusercontent.com/417fe822f1404f7f13f63cc4a6bd3c86464b499b80e37eabcb6b65d994fe545a/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f7461696c77696e646373732e706e67" />
+      <a target="_blank" rel="noreferrer">>
+      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"alt="python" width="12.5%" height="12.5%"/>
       </a>
-        <a>
-      <img src="https://camo.githubusercontent.com/5ae1ae8207f9bc2fe3428032228630a152b57ef1bc6e296181e386b47843a4af/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f626f6f7473747261702e706e67" />
+      <a target="_blank" rel="noreferrer">
+      <img src="https://camo.githubusercontent.com/0fdca9b191118f32724414ce362dd7cd220be4c42738f4ba46ea631f856cdea6/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f72656163746a732f72656163746a732d69636f6e2e737667" alt="python" width="12.5%" height="12.5%"/>
       </a>
-        <a>
-      <img src="https://camo.githubusercontent.com/29e5d9a5b1c8749e1b7ccfa25e1edb42359ab85181b3382eb257aad5651840ac/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f646f636b65722f646f636b65722d69636f6e2e737667" />
+       <a target="_blank" rel="noreferrer">
+      <img src="https://camo.githubusercontent.com/417fe822f1404f7f13f63cc4a6bd3c86464b499b80e37eabcb6b65d994fe545a/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f7461696c77696e646373732e706e67" alt="python" width="12.5%" height="12.5%"/>
       </a>
-        <a>
-      <img src="https://camo.githubusercontent.com/988e3de4c729f7d294e475fad36c948571bf60847ea5d3b5284a16459af11215/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6d7973716c2f6d7973716c2d69636f6e2e737667" />
+        <a target="_blank" rel="noreferrer">
+      <img src="https://camo.githubusercontent.com/5ae1ae8207f9bc2fe3428032228630a152b57ef1bc6e296181e386b47843a4af/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f626f6f7473747261702e706e67" alt="python" width="12.5%" height="12.5%"/>
       </a>
-        <a>
-      <img src="https://camo.githubusercontent.com/d63dfd49aa08fa2eeec62d1efd5c2e3c956288aa77ade221b5ed4708fdbe2b8b/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f706f737467726573716c2f706f737467726573716c2d69636f6e2e737667" />
+        <a target="_blank" rel="noreferrer">
+      <img src="https://camo.githubusercontent.com/29e5d9a5b1c8749e1b7ccfa25e1edb42359ab85181b3382eb257aad5651840ac/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f646f636b65722f646f636b65722d69636f6e2e737667" alt="python" width="12.5%" height="12.5%"/>
       </a>
-        <a>
-      <img src="https://camo.githubusercontent.com/1b0f5eead310fb10d6a2dd142a7d7743674835dd72a3a90517e9d5ee937d4b53/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f616d617a6f6e5f6177732f616d617a6f6e5f6177732d69636f6e2e737667" />
+        <a target="_blank" rel="noreferrer">
+      <img src="https://camo.githubusercontent.com/988e3de4c729f7d294e475fad36c948571bf60847ea5d3b5284a16459af11215/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6d7973716c2f6d7973716c2d69636f6e2e737667" alt="python" width="12.5%" height="12.5%"/>
       </a>
-        <a>
-      <img src="https://camo.githubusercontent.com/10eb5e45a9197474c96538c9a7ad74fdecdbc53b199036a48a8204a19b538b65/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6e67696e782f6e67696e782d69636f6e2e737667" />
+        <a target="_blank" rel="noreferrer">
+      <img src="https://camo.githubusercontent.com/d63dfd49aa08fa2eeec62d1efd5c2e3c956288aa77ade221b5ed4708fdbe2b8b/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f706f737467726573716c2f706f737467726573716c2d69636f6e2e737667" alt="python" width="12.5%" height="12.5%"/>
       </a>
-         <a>
-      <img src="https://camo.githubusercontent.com/dc89e560e32781660fdf5e8b79a58b42d80b95e6a214e0d5156243ca795ac509/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f35302f3030303030302f626173682e706e67" />
+        <a target="_blank" rel="noreferrer">
+      <img src="https://camo.githubusercontent.com/1b0f5eead310fb10d6a2dd142a7d7743674835dd72a3a90517e9d5ee937d4b53/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f616d617a6f6e5f6177732f616d617a6f6e5f6177732d69636f6e2e737667" alt="python" width="12.5%" height="12.5%"/>
+      </a>
+        <a target="_blank" rel="noreferrer">
+      <img src="https://camo.githubusercontent.com/10eb5e45a9197474c96538c9a7ad74fdecdbc53b199036a48a8204a19b538b65/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6e67696e782f6e67696e782d69636f6e2e737667" alt="python" width="12.5%" height="12.5%"/>
+      </a>
+         <a target="_blank" rel="noreferrer">
+      <img src="https://camo.githubusercontent.com/dc89e560e32781660fdf5e8b79a58b42d80b95e6a214e0d5156243ca795ac509/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f35302f3030303030302f626173682e706e67" alt="python" width="12.5%" height="12.5%"/>
       </a>
      </p>
 
@@ -88,9 +90,10 @@
       <a href="https://www.python.org" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="12.5%" height="12.5%" />
       </a>
-      <a>
+      <a target="_blank" rel="noreferrer">
       <img src="https://camo.githubusercontent.com/4f03d47343b28f447bef667297cd2702a7405236ebb8ee8545aecb6c4b2352c4/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f646a616e676f2e706e67" />
       </a>
+      <a target="_blank" rel="noreferrer">
       <img src="https://camo.githubusercontent.com/5a4722ca71301ec290d980b997e0a683464c8eb5be731ddac49fc717ea801225/68747470733a2f2f696d672e69636f6e73382e636f6d2f696f732d66696c6c65642f34382f3030303030302f666c61736b2e706e67" />
       </a>
    </p>
