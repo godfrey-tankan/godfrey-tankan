@@ -31,11 +31,10 @@
 </div>
 <div align="right">
    <a href="https://github.com/godfrey-tankan">
-      <h2 align="center"><img alt="Script" width=10% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/script.gif"/>&nbsp;&nbsp;<img width=85% alt="Languages and Tools" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/languagesandtools.svg"/></a>
+      <h2 align="center"><img alt="Script" width=10% src="https://raw.githubusercontent.com/godfrey-tankan/godfrey-tankan/script.gif"/>&nbsp;&nbsp;<img width=85% alt="Languages and Tools" src="https://raw.githubusercontent.com/godfrey-tankan/godfrey-tankan/languagesandtools.svg"/></a>
       </h2>
       <a href="https://github.com/godfrey-tankan">
-         <img align="left" width=50% alt="Github" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/coder.gif">
-         <!-- https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/coder.gif -->
+         <img align="left" width=50% alt="Github" src="https://raw.githubusercontent.com/godfrey-tankan/godfrey-tankan/coder.gif">
       </a>
    </a>
    <p>
@@ -92,11 +91,11 @@
 
 <h3 align="center"><a href="https://github.com/godfrey-tankan"><img width=15% alt="Phone" src="https://raw.githubusercontent.com/godfrey-tankan/godfrey-tankan/ouput/phone.gif">&nbsp;<img width=80% alt="Wanna Talk?" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/wannatalk.svg"/></a></h3>
 <div align=center>
-   <!-- <a href="https://www.linkedin.com/in/godfrey-tankan-4461711bb/">
-      <img align="right" alt="Footer" width=45% src="https://linkedin-github.herokuapp.com/api/render/Sabyasachi%20Seal/Tech%20Enthusiast/Student/Bachelor%20of%20Technology/dark-red/https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F36451386%3Fv%3D4" />
-      </a> -->
    <a href="mailto:gtkandeya@gmail.com" target="_blank">
    <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&center=true&vCenter=true&width=450%&lines=gtkandeya@gmail.com" />
+         <a href="https://github.com/godfrey-tankan">
+         <img align="left" width=50% alt="Github" src="https://raw.githubusercontent.com/godfrey-tankan/godfrey-tankan/connect.gif">
+      </a>
    <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%232CF7E4&center=true&vCenter=true&width=450%&lines=(%2B263)779586059" />
    </a>
 </div>
