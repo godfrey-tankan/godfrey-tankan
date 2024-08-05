@@ -119,7 +119,8 @@
 <br>
 <br>
 <a href="https://user-badge.committers.top/zimbabwe/godfrey-tankan">
-<img width=45% height=95% src="https://img.shields.io/badge/-Commiters.top rank-yellow?style=for-the-badge&logo=leetcode&logoColor=white&link=https://user-badge.committers.top/zimbabwe/godfrey-tankan"/>
+<img width=45% height=95% src="https://img.shields.io/badge/yellow?style=for-the-badge&logo=leetcode&logoColor=white&link=https://user-badge.committers.top/zimbabwe/godfrey-tankan"/>
+   [![committers.top badge](https://user-badge.committers.top/zimbabwe/godfrey-tankan.svg)](https://user-badge.committers.top/zimbabwe/godfrey-tankan)
 </a>
 
 <h3 align="center"><a href="https://github.com/godfrey-tankan"></a></h3>
