@@ -44,19 +44,7 @@
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="12.5%" height="12.5%" />
       </a>
-      <a target="_blank" rel="noreferrer">
-      <img src="https://camo.githubusercontent.com/09f0d4d964dd8b2d4381c72cf8ffef40af4a91ea5fdf14165a123124f8bd7bbf/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f35302f3030303030302f6a6176617363726970742e706e67"alt="python" width="12.5%" height="12.5%"/>
-      </a>
-      <a target="_blank" rel="noreferrer">>
-      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"alt="python" width="12.5%" height="12.5%"/>
-      </a>
-      <a target="_blank" rel="noreferrer">>
-      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"alt="python" width="12.5%" height="12.5%"/>
-      </a>
-       <a target="_blank" rel="noreferrer">>
-      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/django.png"alt="django" width="12.5%" height="12.5%"/>
-      </a>
-     
+    
     
 
    <h2></h2>
