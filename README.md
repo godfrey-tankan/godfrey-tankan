@@ -11,7 +11,7 @@
    <h4>
       🌱 I’m mostly interested in:
       <a href="https://github.com/godfrey-tankan">
-      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%23F78240&center=true&vCenter=true&width=250%&height=50%&lines=Backend+Development;DevOps;Cloud+Infrastructure+Setup+And+Maintanence" /></a>
+      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%23F78240&center=true&vCenter=true&width=250%&height=50%&lines=Backend+Development;DevOps;Cloud" /></a>
       <br>
 </div>
 <div align=center>
