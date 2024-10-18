@@ -1,8 +1,8 @@
 <!--Made By tankan-->
 
-<h1 align="center">I'm Godfrey Kandeya and I'm a:
+<h1 align="center">I'm Godfrey Kandeya
    <a href="https://github.com/godfrey-tankan">
-   <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Cloud+Computing+Enthusiast;Backend+Developer;DevOps+Engineer" />
+   <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=A+Cloud+Computing+Enthusiast;Django+Developer;Aspiring+DevOps+Engineer" />
    </a>
 </h1>
 <div align=center>
@@ -11,7 +11,7 @@
    <h4>
       🌱 I’m mostly interested in:
       <a href="https://github.com/godfrey-tankan">
-      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%23F78240&center=true&vCenter=true&width=250%&height=50%&lines=Backend+Development;DevOps" /></a>
+      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%23F78240&center=true&vCenter=true&width=250%&height=50%&lines=Backend+Development;DevOps;Cloud+Infrastructure+Setup+And+Maintanence" /></a>
       <br>
 </div>
 <div align=center>
