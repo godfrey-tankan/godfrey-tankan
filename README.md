@@ -65,7 +65,7 @@
 <img align="right" width=40% alt="Github" src="https://github.com/godfrey-tankan/godfrey-tankan/blob/main/github.gif">
 </a>
 <br>
-<a href="https://clava.co.zw">
+<a href="https://itsgodfrey.me">
 <img width=45% height=100% src="https://img.shields.io/website?down_color=red&down_message=DOWN&label=My%20Website&logo=Github&style=for-the-badge&up_message=RUNNING&url=https%3A%2F%2Fclava.co.zw" />
 </a>
 <br>
