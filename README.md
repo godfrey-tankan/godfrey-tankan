@@ -2,7 +2,7 @@
 
 <h1 align="center">I'm Godfrey Kandeya
    <a href="https://github.com/godfrey-tankan">
-   <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=A+Cloud+Computing+Enthusiast;Django+Developer;Aspiring+DevOps+Engineer" />
+   <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=A+Cloud+Computing+Enthusiast;Backend+Developer;Aspiring+DevOps+Engineer" />
    </a>
 </h1>
 <div align=center>
